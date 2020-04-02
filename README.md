@@ -15,7 +15,7 @@ Download data from link above and push on data dictionary
 
 ## Model Architecture
 Using Unet as a solution of this
-https://github.com/vanloc19bk96/data-science-bowl-2018/blob/master/images/u-net-architecture.png
+![alt text](https://github.com/vanloc19bk96/data-science-bowl-2018/blob/master/images/u-net-architecture.png)
 
 # Run
 1. python train.py for training
